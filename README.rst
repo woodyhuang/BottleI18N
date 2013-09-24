@@ -23,7 +23,7 @@ Here is an example:
         return {'i18n_msg':i18n_msg, '_':myapp._}
 
 
-You index.tpl may look like below:
+Your index.tpl may look like below:
 
 ::
 
