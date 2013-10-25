@@ -1,7 +1,7 @@
 bottle_i18n
 ============
 
-A very simple I18N plugin for Bottle apps.
+A very simple I18N plugin for Bottle apps, base on `gettext <http://docs.python.org/2/library/i18n.html>`_.
 
 Here is an example:
 
@@ -33,3 +33,6 @@ Your index.tpl may look like below:
     <p>
       {{ _('test i18n in bottle template') }}
     </p>
+
+
+Here is a sample project: https://github.com/woodyhuang/Bottlog
